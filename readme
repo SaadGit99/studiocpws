@@ -1,0 +1,3 @@
+alter user 'studiocp'@'%' identified with mysql_native_password by 'studiocp';
+
+flush privileges;
